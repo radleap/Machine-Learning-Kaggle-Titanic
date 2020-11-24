@@ -2,7 +2,11 @@
 
 ## Deployment Details
 
+Might make an app, maybe not. Curious to try streamlit so maybe :) 
+
 ## General Project Details
+
+Project source information from https://www.kaggle.com/c/titanic.
 
 Problem Statement: 
 
@@ -11,6 +15,8 @@ Evaluation Metrics:
 ## Requirements
 
 ## Data
+
+https://www.kaggle.com/c/titanic/data
 
 ## Outputs
 
