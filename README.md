@@ -8,9 +8,9 @@ Might make an app, maybe not. Curious to try streamlit so maybe :)
 
 Project source information from https://www.kaggle.com/c/titanic.
 
-Problem Statement: 
+Problem Statement: Predict suvivors correctly.
 
-Evaluation Metrics: 
+Evaluation Metrics: Accuracy currently, might combine with F1
 
 ## Requirements
 
