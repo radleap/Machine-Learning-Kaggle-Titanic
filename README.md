@@ -10,9 +10,7 @@ Project source information from https://www.kaggle.com/c/titanic.
 
 Problem Statement: Predict suvivors correctly.
 
-Evaluation Metrics: Accuracy currently, might combine with F1
-
-## Requirements
+Evaluation Metrics: Accuracy used in alignment with the project metric.
 
 ## Data
 
