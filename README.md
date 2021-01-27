@@ -2,7 +2,7 @@
 
 ## Deployment Details
 
-Might make an app, maybe not. Curious to try streamlit so maybe :) 
+Might make an app, maybe not. Curious to try streamlit or dash so maybe :) 
 
 ## General Project Details
 
